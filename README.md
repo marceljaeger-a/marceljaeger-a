@@ -9,21 +9,59 @@ Neben dem Programmieren fotografieren ich diverse Motive in der Natur und betrei
 Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik. 
 
 ### Fotografie
-- https://www.instagram.com/marcelscode/
+<a href="https://www.instagram.com/marcelscode/">Instragram</a>
 
 
 # Projekte
 
-### Habits (iOS App)
+## Asteorid Hero (Minigame)
+
+<details>
+  <summary>Screenshots</summary>
+</details>
+<details>
+  <summary>Information</summary>
+</details>
 
 
-### FruitSearch (iOS App)
+## Habits (App)
+
+<details>
+  <summary>Screenshots</summary>
+</details>
+<details>
+  <summary>Information</summary>
+</details>
 
 
-### GoRunning (iOS App)
+## FruitSearch (App)
+
+<details>
+  <summary>Screenshots</summary>
+</details>
+<details>
+  <summary>Information</summary>
+</details>
 
 
-### Vocablo (macOS App)
+## GoRunning (App)
+
+<details>
+  <summary>Screenshots</summary>
+</details>
+<details>
+  <summary>Information</summary>
+</details>
+
+
+## Vocablo (App)
+
+<details>
+  <summary>Screenshots</summary>
+</details>
+<details>
+  <summary>Information</summary>
+</details>
 
 
 
