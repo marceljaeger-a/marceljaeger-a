@@ -1,12 +1,30 @@
 # Über mich
 
-Ich heiße Marcel, bin 21 Jahre alt und lebe in Österreich. 🇦🇹 
-Meine persönliche Stärke ist das logische Denken und die Mathematik. 
-Schon als Kind faszinierte mich die Technik und spielte sehr gerne Videospiele. Das besondere an Technology ist für mich, dass sie unser Leben einfacher gestalten lässt und uns Menschen voranbringt. 
-Programmieren ist für mich eine Art kreativer Ausdruck. 
+Mein Name ist Marcel und ich lebe in Österreich. 🇦🇹 Momentan mache ich die Matura, um danach weiter studieren zu können.
+
+In meiner Freizeit programmiere ich mit der Programmiersprache Swift Spiele und Apps für Apple Geräte.
+Schon als Kind hat mich Technik begeistert und spielte sehr gerne Videospiele. Daher will ich Spieleentwickler werden und meine Ideen verwirklichen.
+Neben dem Programmieren fotografieren ich diverse Motive in der Natur und betreibe Calisthenics.
+
+Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik. 
+
+### Fotografie
+- https://www.instagram.com/marcelscode/
+
 
 # Projekte
 
 ### Habits (iOS App)
+
+
+### FruitSearch (iOS App)
+
+
+### GoRunning (iOS App)
+
+
+### Vocablo (macOS App)
+
+
 
 
