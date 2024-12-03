@@ -18,21 +18,49 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 <details>
   <summary>Screenshots</summary>
- [](assets/habits/screenshot_1.png)
 </details>
 <details>
   <summary>Information</summary>
 </details>
+
 
 
 ## Habits (App)
 
+![](/assets/habits/thumbnail.png)
+
 <details>
   <summary>Screenshots</summary>
+
+  |   |   |   |
+  | - | - | - |
+  | ![Screenshot 1](/assets/habits/screenshot_1.png) | ![Screenshot 1](/assets/habits/screenshot_2.png) | ![Screenshot 1](/assets/habits/screenshot_3.png) |
+  | ![Screenshot 1](/assets/habits/screenshot_5.png) | ![Screenshot 1](/assets/habits/screenshot_4.png) | ![Screenshot 1](/assets/habits/screenshot_7.png) |
+
 </details>
 <details>
-  <summary>Information</summary>
+  <summary>Details</summary>
+
+  #### Funktionen
+  - Liste aller Gewohnheiten.
+  - Liste mit Gewohnheiten, die heute anstehen.
+  - Kalendardarstellung deiner Streaks.
+  - Usernotification zum Zeitpunkt der Gewohnheit.
+
+  #### Technologien
+  - Swift
+  - SwiftUI
+  - SwiftData
+  - User Notifications
+  - Swift Charts
+  - Xcode
+  - Git
+
+  #### Platform
+  - iOS
+
 </details>
+
 
 
 ## FruitSearch (App)
@@ -45,6 +73,7 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 </details>
 
 
+
 ## GoRunning (App)
 
 <details>
@@ -53,6 +82,7 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 <details>
   <summary>Information</summary>
 </details>
+
 
 
 ## Vocablo (App)
