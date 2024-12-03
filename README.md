@@ -5,5 +5,8 @@ Meine persönliche Stärke ist das logische Denken und die Mathematik.
 Schon als Kind faszinierte mich die Technik und spielte sehr gerne Videospiele. Das besondere an Technology ist für mich, dass sie unser Leben einfacher gestalten lässt und uns Menschen voranbringt. 
 Programmieren ist für mich eine Art kreativer Ausdruck. 
 
+# Projekte
+
+### Habits (iOS App)
 
 
