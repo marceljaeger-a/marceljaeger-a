@@ -28,7 +28,7 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 <details>
   <summary>Mehr</summary>
 
-  <!-- ![Screenshots](/assets/habits/habits%20screenshots.png) -->
+  ![Screenshots](/assets/habits/habits%20screenshots.png)
 
   #### Funktionen
   - Liste aller Gewohnheiten.
