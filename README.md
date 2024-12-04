@@ -61,6 +61,26 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 <details>
   <summary>Mehr</summary>
+
+  #### Funktionen
+  - Kameraintegration.
+  - Erkennt einen Apfel, eine Banane, eine Orange und eine Tomate mit Machine Learning.
+  - Ladet die Nährwerte der Frucht von der Spoonacular API.
+
+  #### Technologien
+  - Core ML
+  - Create ML
+  - AVFoundation
+  - URL Request
+  - Swift Charts
+  - Swift
+  - SwiftUI
+  - Xcode
+  - Git
+
+  #### Platform
+  - iOS
+
 </details>
 
 
