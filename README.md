@@ -23,12 +23,12 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 ## Habits (App) - Gewohnheitstracker
 
-![](/assets/habits/thumbnail.png)
+![Habits Thumbnail](/assets/habits/thumbnail.png)
 
 <details>
   <summary>Mehr</summary>
 
-  ![Screenshots](/assets/habits/habits%20screenshots.png)
+  ![Habits Screenshots](/assets/habits/habits%20screenshots.png)
 
   #### Funktionen
   - Liste aller Gewohnheiten.
@@ -54,8 +54,12 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 ## FruitSearch (App) - Fruchterkennung mit Machine Learning
 
+![FruitSearch Thumbnail](/assets/fruitsearch/FruitSearch%20Thumbnail.png)
+
 <details>
   <summary>Mehr</summary>
+
+  ![FruitSearch Screenshots](/assets/fruitsearch/FruitSearch%20screenshots.png)
 
   #### Funktionen
   - Kameraintegration.
