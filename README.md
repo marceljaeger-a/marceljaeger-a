@@ -13,7 +13,7 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 # 👨🏻‍💻 Projekte
 
-## Asteorid Hero (Minigame)
+## Asteroid Hero (Minigame)
 
 <details>
   <summary>Mehr</summary>
