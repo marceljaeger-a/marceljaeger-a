@@ -23,25 +23,25 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 ## Habits (App) - Gewohnheitstracker
 
-![Habits Thumbnail](/assets/habits/thumbnail.png)
+![Habits Thumbnail](/assets/habits/habits_thumbnail.png)
 
 <details>
   <summary>Mehr</summary>
 
-  ![Habits Screenshots](/assets/habits/habits%20screenshots.png)
+  ![Habits Screenshots](/assets/habits/habits_screenshots.png)
 
   #### Funktionen
   - Liste aller Gewohnheiten.
   - Liste mit Gewohnheiten, die heute anstehen.
-  - Kalendardarstellung deiner Streaks.
+  - Stellt deinen Streak als Kalendar dar.
   - Usernotification zum Zeitpunkt der Gewohnheit.
 
   #### Technologien
-  - Swift
+  - User Notifications
   - SwiftUI
   - SwiftData
-  - User Notifications
   - Swift Charts
+  - Swift
   - Xcode
   - Git
 
@@ -54,12 +54,12 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 ## FruitSearch (App) - Fruchterkennung mit Machine Learning
 
-![FruitSearch Thumbnail](/assets/fruitsearch/FruitSearch%20Thumbnail.png)
+![FruitSearch Thumbnail](/assets/fruitsearch/fruitsearch_thumbnail.png)
 
 <details>
   <summary>Mehr</summary>
 
-  ![FruitSearch Screenshots](/assets/fruitsearch/FruitSearch%20screenshots.png)
+  ![FruitSearch Screenshots](/assets/fruitsearch/fruitsearch_screenshots.png)
 
   #### Funktionen
   - Kameraintegration.
@@ -71,9 +71,9 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
   - Create ML
   - AVFoundation
   - URL Request
+  - SwiftUI
   - Swift Charts
   - Swift
-  - SwiftUI
   - Xcode
   - Git
 
@@ -86,21 +86,58 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 ## GoRunning (App) - Aktivitätstracker
 
+![GoRunning Screenshots](/assets/gorunning/gorunning_thumbnail.png)
+
 <details>
   <summary>Mehr</summary>
+
+  ![GoRunning Screenshots](/assets/gorunning/gorunning_screenshots.png)
+
+  #### Funktionen
+  - Zeigt aktuelle Position auf der Map.
+  - Zeigt zurückgelegten Weg auf der Map.
+  - Speichert die Aktivität und Weg.
+  - Stellt Daten der Aktivität in Charts da.
+
+  #### Technologien
+  - Core Location
+  - MapKit
+  - SwiftUI
+  - SwiftData
+  - Swift Charts
+  - Swift
+  - Xcode
+  - Git
+
+  #### Platform
+  - iOS
+
 </details>
 
 
 
 ## Vocablo (App) - Vokabeln lernen und ordnen
 
+![Vocablo Thumbnail](/assets/vocablo/vocablo_thumbnail.png)
+
 <details>
   <summary>Mehr</summary>
+
+  ![Vocablo Screenshots](/assets/vocablo/vocablo_screenshots.png)
+
+  #### Funktionen
+  - Erstellen von Vokabellisten.
+  - Lernen von Vokabeln mit Spaced Repetition Algorithmus.
+
+  #### Technologien
+  - SwiftUI
+  - SwiftData
+  - Swift
+  - XCTest
+  - Xcode
+  - Git
+
+  #### Platform
+  - macOS
+
 </details>
-
-
-
-
-
-
-[def]: /test.md
