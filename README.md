@@ -11,35 +11,29 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 ### Fotografie
 <a href="https://www.instagram.com/marcelscode/">Instragram</a>
 
-
-# Projekte
+# 👨🏻‍💻 Projekte
 
 ## Asteorid Hero (Minigame)
 
 <details>
-  <summary>Screenshots</summary>
-</details>
-<details>
-  <summary>Information</summary>
+  <summary>Mehr</summary>
 </details>
 
 
 
-## Habits (App)
+## Habits (App) - Gewohnheitstracker
 
 ![](/assets/habits/thumbnail.png)
 
 <details>
-  <summary>Screenshots</summary>
+  <summary>Mehr</summary>
 
-  |   |   |   |
+  ![Screenshots](/assets/habits/habits%20screenshots.png)
+
+  <!-- |   |   |   |
   | - | - | - |
   | ![Screenshot 1](/assets/habits/screenshot_1.png) | ![Screenshot 1](/assets/habits/screenshot_2.png) | ![Screenshot 1](/assets/habits/screenshot_3.png) |
-  | ![Screenshot 1](/assets/habits/screenshot_5.png) | ![Screenshot 1](/assets/habits/screenshot_4.png) | ![Screenshot 1](/assets/habits/screenshot_7.png) |
-
-</details>
-<details>
-  <summary>Details</summary>
+  | ![Screenshot 1](/assets/habits/screenshot_5.png) | ![Screenshot 1](/assets/habits/screenshot_4.png) | ![Screenshot 1](/assets/habits/screenshot_7.png) | -->
 
   #### Funktionen
   - Liste aller Gewohnheiten.
@@ -63,37 +57,31 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 
 
-## FruitSearch (App)
+## FruitSearch (App) - Fruchterkennung mit Machine Learning
 
 <details>
-  <summary>Screenshots</summary>
-</details>
-<details>
-  <summary>Information</summary>
+  <summary>Mehr</summary>
 </details>
 
 
 
-## GoRunning (App)
+## GoRunning (App) - Aktivitätstracker
 
 <details>
-  <summary>Screenshots</summary>
-</details>
-<details>
-  <summary>Information</summary>
+  <summary>Mehr</summary>
 </details>
 
 
 
-## Vocablo (App)
+## Vocablo (App) - Vokabeln lernen und ordnen
 
 <details>
-  <summary>Screenshots</summary>
-</details>
-<details>
-  <summary>Information</summary>
+  <summary>Mehr</summary>
 </details>
 
 
 
 
+
+
+[def]: /test.md
