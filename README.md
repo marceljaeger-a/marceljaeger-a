@@ -29,7 +29,7 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
   Sobald ein Asteroid einschlägt, verliert man 1 Herz. Hat man alle 3 verloren, ist das Spiel vorbei. 
   Für je 10 Sekunden bekommt man am Ende 1 Emerald.
 
-  Eine Runde ist im Quellcode in Phasen aufgeteilt. Beim erreichen einer Phase, werden bestimmte Parameter des Spiels verändert, 
+  Eine Runde ist im Quellcode in Phasen aufgeteilt. Beim Ereichen einer Phase werden bestimmte Parameter des Spiels verändert, 
   wie zum Beipsiel die Anzahl der Asteroiden. Die Sprites wurden mit Pixelmator erstellt und die Sounds mit der App GarageBand.
 
   #### Technologien
