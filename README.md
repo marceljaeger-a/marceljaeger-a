@@ -15,8 +15,34 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
 
 ## Asteroid Hero (Minigame)
 
+![AsteroidHero Thumbnail](/assets/asteroidhero/asteroidhero_thumbnail.png)
+
 <details>
   <summary>Mehr</summary>
+
+  ![AsteroidHero Screenshots](/assets/asteroidhero/asteroidhero_screenshots.png)
+
+  [Clip auf Youtube öffnen.](https://youtu.be/O-fCDcd-ai0)
+
+  #### Konzept
+  In diesem Spiel geht es darum, die Asteroiden mit Magie abzuschießen und solange wie möglich durchzuhalten. Man hat 3 Leben. 
+  Sobald ein Asteroid einschlägt, verliert man 1 Herz. Hat man alle 3 verloren, ist das Spiel vorbei. 
+  Für je 10 Sekunden bekommt man am Ende 1 Emerald.
+
+  Eine Runde ist im Quellcode in Phasen aufgeteilt. Beim erreichen einer Phase, werden bestimmte Parameter des Spiels verändert, 
+  wie zum Beipsiel die Anzahl der Asteroiden. Die Sprites wurden mit Pixelmator erstellt und die Sounds mit der App GarageBand.
+
+  #### Technologien
+  - SpriteKit
+  - GameplayKit
+  - SwiftUI
+  - Swift
+  - Xcode 
+  - Git
+
+  #### Platform
+  - iOS
+
 </details>
 
 
@@ -141,3 +167,5 @@ Zu meinen persönlichen Stärken zählt das logische Denken und die Mathematik.
   - macOS
 
 </details>
+
+[def]: https://youtu.be/O-fCDcd-ai0
