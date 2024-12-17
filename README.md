@@ -16,7 +16,7 @@ Schon als Kind begeisterte mich Technik und spielte sehr gerne Videospiele. Dahe
 
 # 👨🏻‍💻 Projekte
 
-## Asteroid Hero (Minigame)
+## <a href="https://github.com/marceljaeger-a/AsteroidHero"> Asteroid Hero (Minigame) </a>
 
 ![AsteroidHero Thumbnail](/assets/asteroidhero/asteroidhero_thumbnail.png)
 
@@ -50,7 +50,7 @@ Schon als Kind begeisterte mich Technik und spielte sehr gerne Videospiele. Dahe
 
 
 
-## Habits (App) - Gewohnheitstracker
+## <a href="https://github.com/marceljaeger-a/Habits"> Habits (App) - Gewohnheitstracker </a>
 
 ![Habits Thumbnail](/assets/habits/habits_thumbnail.png)
 
@@ -81,7 +81,7 @@ Schon als Kind begeisterte mich Technik und spielte sehr gerne Videospiele. Dahe
 
 
 
-## FruitSearch (App) - Fruchterkennung mit Machine Learning
+## <a href="https://github.com/marceljaeger-a/FruitSearch"> FruitSearch (App) - Fruchterkennung mit Machine Learning </a>
 
 ![FruitSearch Thumbnail](/assets/fruitsearch/fruitsearch_thumbnail.png)
 
@@ -113,7 +113,7 @@ Schon als Kind begeisterte mich Technik und spielte sehr gerne Videospiele. Dahe
 
 
 
-## GoRunning (App) - Aktivitätstracker
+## <a href="https://github.com/marceljaeger-a/GoRunning"> GoRunning (App) - Aktivitätstracker </a>
 
 ![GoRunning Screenshots](/assets/gorunning/gorunning_thumbnail.png)
 
@@ -145,7 +145,7 @@ Schon als Kind begeisterte mich Technik und spielte sehr gerne Videospiele. Dahe
 
 
 
-## Vocablo (App) - Vokabeln lernen und ordnen
+## <a href="https://github.com/marceljaeger-a/Vocablo"> Vocablo (App) - Vokabel lernen und ordnen </a>
 
 ![Vocablo Thumbnail](/assets/vocablo/vocablo_thumbnail.png)
 
