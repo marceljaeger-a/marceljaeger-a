@@ -1,10 +1,9 @@
 # Über mich
 
-Mein Name ist Marcel und ich lebe in Österreich.🇦🇹 Momentan mache ich die Matura, um danach weiter studieren zu können.
-Schon als Kind begeisterte mich Technik und spielte sehr gerne Videospiele. Daher will ich Spieleentwickler werden.
+Mein Name ist Marcel und ich lebe in Österreich.🇦🇹
 
 ### Hobbies
-- Spiele und Apps entwickeln
+- Programmieren
 - Landschaftsfotografie (<a href="https://www.instagram.com/marcelscode/">Instragram</a>)
 - Calisthenics
 
