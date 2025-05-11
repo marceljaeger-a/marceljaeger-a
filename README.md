@@ -1,18 +1,3 @@
-# Über mich
-
-Mein Name ist Marcel und ich lebe in Österreich.🇦🇹
-
-### Hobbies
-- Programmieren
-- Landschaftsfotografie (<a href="https://www.instagram.com/marcelscode/">Instragram</a>)
-- Calisthenics
-
-### Stärken
-- logisches Denken
-- Mathematik
-
-
-
 # 👨🏻‍💻 Projekte
 
 ## <a href="https://github.com/marceljaeger-a/AsteroidHero"> Asteroid Hero (Minigame) </a>
