@@ -34,37 +34,6 @@
 
 
 
-## <a href="https://github.com/marceljaeger-a/Habits"> Habits (App) - Gewohnheitstracker </a>
-
-![Habits Thumbnail](/assets/habits/habits_thumbnail.png)
-
-<details>
-  <summary>Mehr</summary>
-
-  ![Habits Screenshots](/assets/habits/habits_screenshots.png)
-
-  #### Funktionen
-  - Liste aller Gewohnheiten.
-  - Liste mit Gewohnheiten, die heute anstehen.
-  - Stellt deinen Streak als Kalendar dar.
-  - Usernotification zum Zeitpunkt der Gewohnheit.
-
-  #### Technologien
-  - User Notifications
-  - SwiftUI
-  - SwiftData
-  - Swift Charts
-  - Swift
-  - Xcode
-  - Git
-
-  #### Platform
-  - iOS
-
-</details>
-
-
-
 ## <a href="https://github.com/marceljaeger-a/FruitSearch"> FruitSearch (App) - Fruchterkennung mit Machine Learning </a>
 
 ![FruitSearch Thumbnail](/assets/fruitsearch/fruitsearch_thumbnail.png)
